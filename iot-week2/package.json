@@ -3,6 +3,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch api/index.ts",
+    "start": "tsx api/index.ts",
     "vercel:dev": "vercel dev",
     "vercel:deploy": "vercel",
     "drizzle": "drizzle-kit"
